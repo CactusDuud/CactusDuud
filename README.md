@@ -6,3 +6,4 @@
 - 📫 How to reach me: email itssagesemail@gmail.com.
 
 [![CactusDuud's GitHub stats](https://github-readme-stats.vercel.app/api?username=CactusDuud&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CactusDuud&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
