@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CactusDuud.
 - 👀 I’m interested in game and software development.
 - 🌱 I’m currently an employee at Ezoic Inc.
-- 💞️ I’m looking to collaborate on a game project. If you like games but don't have ideas dm me.
+- 💞️ I’m looking to collaborate on a game project. If you like games but don't have ideas (and money, please) dm me.
 - 😄 Pronouns: he/they
 - 📫 How to reach me: email itssagesemail@gmail.com.
 
