@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CactusDuud.
 - 👀 I’m interested in game and software development.
-- 🌱 I’m currently a software engineer at Ezoic Inc.
+- 🌱 I’m currently looking for a job. Email me!
 - 😄 Pronouns: they/them.
 - 📫 How to reach me: itssagesemail@gmail.com.
 
