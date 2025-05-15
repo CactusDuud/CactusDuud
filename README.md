@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @CactusDuud.
-- 👀 I’m interested in game and software development.
-- 🌱 I’m currently looking for a job. Email me!
-- 😄 Pronouns: they/them.
-- 📫 How to reach me: itssagesemail@gmail.com.
+Hi, I'm @CactusDuud.
+I am a software developer with a passion for game development, but don't let that fool you! I know too much!
+I am a core member of @EndymionGamesGroup.
+If you would like to hire me, please send me an email with your contact information: itssagesemail@gmail.com.
+I am a they.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CactusDuud&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
